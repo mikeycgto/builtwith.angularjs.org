@@ -3580,7 +3580,27 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "SimplyBuilt.com",
+      "thumb": "simplybuilt/thumb.png", 
+      "desc": "Build and host a professional website that looks great on all devices.",
+      "url": "https://my.simplybuilt.com",
+      "info": "https://www.simplybuilt.com",
+      "submitter": "mikeycgto",
+      "submissionDate": "2014-05-02",
+      "tags": [
+        "Production",
+        "Small Business",
+        "Productivity",
+        "Website Builder",
+        "Web Hosting",
+        "CSS3",
+        "HTML5",
+        "Ruby on Rails",
+        "RESTful",
+        "No jQuery"
+      ]
     }
-
   ]
 }
